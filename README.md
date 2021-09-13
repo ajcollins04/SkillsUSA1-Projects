@@ -1,2 +1,2 @@
 # SkillsUSA1-Projects
-First two programs required to be written in one hour for the Prosser SkillsUSA competition.
+These are my takes on the first two programs required to be written in one hour for the Prosser SkillsUSA competition. These programs led to me qualifying for state.
